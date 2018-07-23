@@ -1,3 +1,10 @@
 <resources>
+    <!-- Title application -->
     <string name="app_name">Vila do Conde Guide</string>
+
+    <!-- Places Titles -->
+    <string name="place_visit">Visit</string>
+    <string name="place_sleep">Sleep</string>
+    <string name="place_eat">Eat</string>
+    <string name="place_attend">Attend</string>
 </resources>
