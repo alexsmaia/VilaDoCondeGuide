@@ -7,4 +7,8 @@
     <string name="place_sleep">Sleep</string>
     <string name="place_eat">Eat</string>
     <string name="place_attend">Attend</string>
+
+    <!-- Places Visit -->
+    <string name="visit01">Mosteiro de Santa Clara</string>
+    <string name="visit02">Igreja Matriz</string>
 </resources>

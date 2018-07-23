@@ -10,34 +10,30 @@ package com.example.android.viladocondeguide;
 public class Place {
 
     /**
-     * Constant value no image provided for this Place
-     */
-    private static final int NO_IMAGE_PROVIDED = -1;
-    /**
      * Name Place
      */
-    private String mPlaceName;
+    private int mStringResourceId;
     /**
      * Image resource Id for the Place
      */
-    private int mImageResourceId = NO_IMAGE_PROVIDED;
+    private int mImageResourceId;
 
     /**
      * Create a new Place object.
      *
-     * @param placeName       is the Place name
+     * @param stringResourceId is the Place name
      * @param imageResourceId is image associated to the word in the Miwok language
      */
-    public Place(String placeName, int imageResourceId) {
-        mPlaceName = placeName;
+    public Place(int stringResourceId, int imageResourceId) {
+        mStringResourceId = stringResourceId;
         mImageResourceId = imageResourceId;
     }
 
     /**
-     * Get name of the word.
+     * Get name of the Place.
      */
-    public String getPlaceName() {
-        return mPlaceName;
+    public int getPlaceName() {
+        return mStringResourceId;
     }
 
     /**

@@ -1,82 +1,73 @@
-/*
- * Copyright (C) 2016 The Android Open Source Project
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- *      http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
 package com.example.android.viladocondeguide;
 
-import android.content.Context;
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentPagerAdapter;
+import android.app.Activity;
+import android.support.v4.content.ContextCompat;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.ArrayAdapter;
+import android.widget.ImageView;
+import android.widget.TextView;
 
-/**
- * Provides the appropriate {@link Fragment} for a view pager.
- */
-public class PlaceAdapter extends FragmentPagerAdapter {
+import java.util.ArrayList;
+
+public class PlaceAdapter extends ArrayAdapter<Place> {
 
     /**
-     * Context of the app
+     * Resource ID for background color
      */
-    private Context mContext;
+    private int mColorResourceId;
 
     /**
-     * Create a new {@link PlaceAdapter} object.
+     * Place costum constructor
      *
-     * @param context is the context of the app
-     * @param fm      is the fragment manager that will keep each fragment's state in the adapter
-     *                across swipes.
+     * @param context The current context..
+     * @param places List of Places objects
      */
-    public PlaceAdapter(Context context, FragmentManager fm) {
-        super(fm);
-        mContext = context;
+    public PlaceAdapter(Activity context, ArrayList<Place> places, int colorResourceId) {
+        // Initialize the ArrayAdapter
+        super(context, 0, places);
+        mColorResourceId = colorResourceId;
     }
 
     /**
-     * Return the {@link Fragment} that should be displayed for the given page number.
+     * Provides a view for an AdapterView
+     *
+     * @param position The position in the list.
+     * @param convertView The recycled view to populate.
+     * @param parent The parent ViewGroup that is used for inflation.
+     * @return The View for the position in the AdapterView.
      */
     @Override
-    public Fragment getItem(int position) {
-        if (position == 0) {
-            return new VisitFragment();
-        } else if (position == 1) {
-            return new SleepFragment();
-        } else if (position == 2) {
-            return new EatFragment();
-        } else {
-            return new AttendFragment();
+    public View getView(int position, View convertView, ViewGroup parent) {
+        // Check if the existing view is being reused, otherwise inflate the view
+        View listPlaceView = convertView;
+        if (listPlaceView == null) {
+            listPlaceView = LayoutInflater.from(getContext()).inflate(
+                    R.layout.list_place, parent, false);
         }
-    }
 
-    /**
-     * Return the total number of pages.
-     */
-    @Override
-    public int getCount() {
-        return 4;
-    }
+        // Get the position {@link Place} object
+        Place currentPlace = getItem(position);
 
-    @Override
-    public CharSequence getPageTitle(int position) {
-        if (position == 0) {
-            return mContext.getString(R.string.place_visit);
-        } else if (position == 1) {
-            return mContext.getString(R.string.place_sleep);
-        } else if (position == 2) {
-            return mContext.getString(R.string.place_eat);
-        } else {
-            return mContext.getString(R.string.place_attend);
-        }
-    }
+        // Find the TextView for Name in the list_place.xml
+        TextView placeName = (TextView) listPlaceView.findViewById(R.id.name_text_view);
+        // Get Place name from current object
+        placeName.setText(currentPlace.getPlaceName());
 
+        // Find the ImageView in the list_place.xml
+        ImageView imageView = (ImageView) listPlaceView.findViewById(R.id.image);
+        // Display the provided image based on the resource ID
+        imageView.setImageResource(currentPlace.getImageResourceId());
+
+        // Set the theme color for the list item
+        View textContainer = listPlaceView.findViewById(R.id.name_text_view);
+        // Find the color
+        int color = ContextCompat.getColor(getContext(), mColorResourceId);
+        // Set the background color
+        textContainer.setBackgroundColor(color);
+
+        // Return the whole list item layout
+        return listPlaceView;
+    }
 }
