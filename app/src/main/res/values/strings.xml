@@ -10,5 +10,12 @@
 
     <!-- Places Visit -->
     <string name="visit01">Mosteiro de Santa Clara</string>
+    <string name="visit01d">O convento foi fundado por iniciativa de D. Afonso Sanches, filho bastardo de Dinis I de Portugal, e de sua esposa, D. Teresa Martins.
+
+Do património edificado ao longo dos séculos, restam-nos hoje a igreja (ver: Igreja do Convento de Santa Clara), em estilo gótico, a área residencial (outrora designada como os "dormitórios novos"), edificada no século XVIII, os arcos do antigo claustro com o seu chafariz e o extenso aqueduto - o aqueduto de Santa Clara, em parte destruído.
+
+Na igreja encontram-se alguns importantes túmulos: o de Beatriz de Portugal, filha do beato Nuno Álvares Pereira, o dos Condes de Cantanhede e os dos fundadores.
+
+Um dos momentos mais notáveis da história do convento ocorreu sob a abadessa D. Isabel de Castro (1518-1543). A reedificação de 1777 em gosto neopalladino é do mestre pedreiro Henrique Ventura Lobo, que trabalhou na Cadeia do Tribunal da Relação do Porto.</string>
     <string name="visit02">Igreja Matriz</string>
 </resources>

@@ -37,8 +37,8 @@ public class VisitFragment extends Fragment {
 
         // Create List of Places
         final ArrayList<Place> places = new ArrayList<Place>();
-        places.add(new Place(R.string.visit01, R.drawable.most_st_clara));
-        places.add(new Place(R.string.visit01, R.drawable.most_st_clara));
+        places.add(new Place(R.string.visit01, R.drawable.most_st_clara, R.string.visit01d));
+        places.add(new Place(R.string.visit01, R.drawable.most_st_clara, R.string.visit01d));
 
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The
