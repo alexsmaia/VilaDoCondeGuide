@@ -14,13 +14,43 @@
         android:layout_height="@dimen/list_item_height"
         android:scaleType="centerCrop" />
 
-    <TextView
-        android:id="@+id/name_text_view"
+    <FrameLayout
+        android:id="@+id/text_container"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:textAppearance="?android:textAppearanceMedium"
-        android:textColor="@android:color/white"
-        android:textStyle="bold"
-        tools:text="lutti" />
+        tools:background="@color/list_visit">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="?android:selectableItemBackground"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/pad16"
+            android:paddingRight="@dimen/pad16">
+
+            <TextView
+                android:id="@+id/name_text_view"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="bottom"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"
+                tools:text="lutti" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:paddingTop="8dp"
+                android:text="@string/more_info"
+                android:textAppearance="?android:textAppearanceSmall"
+                android:textColor="@android:color/white" />
+
+        </LinearLayout>
+
+    </FrameLayout>
 
 </LinearLayout>

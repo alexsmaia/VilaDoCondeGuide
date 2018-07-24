@@ -2,6 +2,10 @@
     <!-- Title application -->
     <string name="app_name">Vila do Conde Guide</string>
 
+    <string name="place_details">Place Detais</string>
+
+    <string name="more_info">More info</string>
+
     <!-- Places Titles -->
     <string name="place_visit">Visit</string>
     <string name="place_sleep">Sleep</string>
@@ -10,12 +14,73 @@
 
     <!-- Places Visit -->
     <string name="visit01">Mosteiro de Santa Clara</string>
-    <string name="visit01d">O convento foi fundado por iniciativa de D. Afonso Sanches, filho bastardo de Dinis I de Portugal, e de sua esposa, D. Teresa Martins.
+    <string name="visit01d">
+        O convento foi fundado por iniciativa de D. Afonso Sanches, filho bastardo de Dinis I de Portugal, e de sua esposa, D. Teresa Martins.
+        \n\nDo património edificado ao longo dos séculos, restam-nos hoje a igreja (ver: Igreja do Convento de Santa Clara), em estilo gótico, a área residencial (outrora designada como os "dormitórios novos"), edificada no século XVIII, os arcos do antigo claustro com o seu chafariz e o extenso aqueduto - o aqueduto de Santa Clara, em parte destruído.
+        \n\nNa igreja encontram-se alguns importantes túmulos: o de Beatriz de Portugal, filha do beato Nuno Álvares Pereira, o dos Condes de Cantanhede e os dos fundadores.
+        \n\nUm dos momentos mais notáveis da história do convento ocorreu sob a abadessa D. Isabel de Castro (1518-1543). A reedificação de 1777 em gosto neopalladino é do mestre pedreiro Henrique Ventura Lobo, que trabalhou na Cadeia do Tribunal da Relação do Porto.
+    </string>
+    <string name="visit02">Aqueduto</string>
+    <string name="visit02d">
+        O Aqueduto de Vila do Conde é um canal artificial construído para abastecer o Mosteiro de Santa Clara com água proveniente de uma fonte situada a mais de seis quilómetros, situada no concelho da Póvoa de Varzim.
+        \n\nA construção do aqueduto foi iniciada em 1628, mas, decorridos alguns anos, a obra foi interrompida pela falta de verba.
+        \n\nEm 1705, com a estabilização da situação económica do país, a obra do aqueduto foi retomada pelo engenheiro militar Manuel Pinto Vila Lobos, e concluída 9 anos depois.
+        \n\nA água que abastecia o aqueduto provinha de uma fonte da freguesia de Terroso, onde ainda se encontra um pequeno templo com um nicho e imagem de Santo António, mandado ali colocar pelas abadessas do convento. Daqui a água seguia debaixo de terra até Beiriz e posteriormente através de uma parede até uma estrutura em padieiras que se ligavam aos arcos durante aproximadamente cinco quilómetros até ao convento onde a água era jorrada do chafariz do claustro.
+        \n\nEste aqueduto, que atravessa o concelho de Vila do Conde e Póvoa de Varzim, é formado por 999 arcos e tem cerca 5 km de extensão, o que faz dele o segundo aqueduto mais extenso de Portugal, constituindo-se como uma das principais obras da arquitetura civil da Idade Moderna do norte de Portugal.
+    </string>
+    <string name="visit03">Igreja de Santa Clara</string>
+    <string name="visit03d">
+        Um cavaleiro teve um sonho: durante três noites o cavaleiro sonhou com uma escada em caracol, envolta em perfume que se elevava de um monte até ao Céu. Esse cavaleiro era o infante D. Afonso Sanches, filho bastardo de D. Dinis e o monte era o castro de S. João, na foz do Ave, onde a mulher, D. Teresa Martins, possuía um castelo.
+        \n\nEsta é uma explicação poética para a construção da igreja de Santa Clara de Vila do Conde. O contexto histórico, porém, era bem mais atroz: D. Dinis antagonizava a governação do reino com o seu filho legítimo, o futuro D. Afonso IV. Formavam-se dois partidos – o do Rei, liderado por este e coadjuvado por D. Afonso Sanches, e o real herdeiro coadjuvado pela mãe, a Rainha Santa Isabel, que, nessa época estava a erigir um convento de clarissas em Coimbra (Santa Clara a Velha). Daí se entenda a fundação desta igreja e complexo monástico que começou a erigir a 7 de Maio de 1318, com o alto patrocínio do próprio monarca.
+    </string>
+    <string name="visit04">Igreja Matriz</string>
+    <string name="visit04d">
+        A Igreja Matriz é um dos monumentos mais emblemáticos da cidade e concelho de Vila do Conde. Desde o século XVI, transformou-se no maior centro de culto da Paróquia de S. João Baptista e, quando foi construída era a maior igreja paroquial do seu tempo, e ainda hoje é uma das maiores do país.
+        \n\nNão sendo possível contar toda a sua história referiremos os factos principais. A decisão de se construir uma nova matriz, em 1496 – em substituição da antiga matriz que se situava no monte do mosteiro e era pequena – corresponde ao anseio de uma população, que há muito desciam as encostas do monte, para morar mais perto do porto do Ave, numa época em que Vila do Conde fervilhava com o comércio do Império Português. A matriz de Vila do Conde é um monumento às Descobertas marítimas empreendidas por Portugal.
+    </string>
+    <string name="visit05">Capela de Nossa Senhora da Guia</string>
+    <string name="visit05d">
+        Situada no extremo sudoeste da nossa Paróquia, a Capela de Nossa Senhora da Guia é também um cartão de visitas para quem entra pela barra do rio Ave. A ela rezam os pescadores do norte e a sua presença mesmo na foz do rio serve de amparo na passagem desta barreira natural.
+        \n\nO seu interior surpreende pela profusão de azulejos, talha e pintura, definindo um espaço claramente barroco. O tecto coberto por caixotões que representa a ladainha do rosário e episódios bíblicos do Evangelho encontra-se um púlpito com balaustrada de madeira. O arco triunfal, com duas colunas e arco de volta perfeita, integra-se numa composição de talha dourada sobre fundo branco, cujo0 conjunto engloba os altares colaterais.
+        \n\nNa capela-mor, o retábulo apresenta as mesmas tonalidades, mas é mais tardio, pois a sua linguagem depurada aproxima-se já do neoclássico. A capela foi alvo de restauros em 1940, colocando-se no cimo da escadaria o cruzeiro do centenário.
+    </string>
+    <string name="visit06">Capela Nossa Senhora do Socorro</string>
+    <string name="visit06d">
+        A capela de Nossa Senhora do Socorro, está bem no âmago da nossa terra, elevada sobre o rio Ave. Diz-nos Monsenhor José Augusto Ferreira (in Vila do Conde e o seu Alfoz) que a "capella é fundação de Gaspar Manoel, Cavalleiro professo da Ordem de Christo, Piloto-mór da carreia da Índia, China e Japão, e de sua mulher Barbara Ferreira d'Almeida, no anno de 1603". Já em 1599, estes haviam solicitado ao Arcebispo Primaz D. Frei Agostinho de Jesus, licença para edificação desta capela. Ainda segundo este autor, a capela era de invocação de Nossa Senhora da Boa Viagem.
+        \n\nA invocação da Virgem e o estilo arquitectónico da capela reflectem os gostos de Gaspar Manuel, cuja sepultura ainda hoje pode ser encontrada no chão da capela. Piloto-mor era o funcionário marítimo responsável pela chefia do serviço de pilotagem dos portos, bem como pela superintendência de todos os seus pilotos da barra e práticos, cargo que era exercido por Gaspar Manuel no extremo oriente, de influência portuguesa.
+    </string>
+    <string name="visit07">Igreja de Nossa Senhora da Lapa</string>
+    <string name="visit07d">
+        Situada numa zona que hoje engloba a cidade de Vila do Conde, erguia-se, outrora, a ermida de S. Bartolomeu. Situada, numa zona agrícola da Vila, já muito perto do seu termo, na fronteira com a Paróquia de S. Pedro de Formariz (anexada, desde o século XIX, à nossa Paróquia de Vila do Conde). Da ermida de S. Bartolomeu já pouco ou nada resta.
+        \n\nEugénio da Cunha e Freitas, refere-nos que esta capela ficava no lugar de Cimo de Villa, mais propriamente no Campo das Giestas, e foi referida, pela primeira, vez no Tombo Novo do Mosteiro de Santa Clara, em 1634, embora seja possível que a edificação tenha ocorrido ainda no decurso do séc. XVI. Era sua administradora a Confraria de S. Bartolomeu e S. Lourenço, à qual o Papa Urbano VIII (séc. XVII), concedeu indulgência.
+    </string>
 
-Do património edificado ao longo dos séculos, restam-nos hoje a igreja (ver: Igreja do Convento de Santa Clara), em estilo gótico, a área residencial (outrora designada como os "dormitórios novos"), edificada no século XVIII, os arcos do antigo claustro com o seu chafariz e o extenso aqueduto - o aqueduto de Santa Clara, em parte destruído.
+    <!-- Places Sleep -->
+    <string name="sleep01">Santana Hotel &amp; SPA</string>
+    <string name="sleep01d">
+        Este alojamento fica a 12 minutos a pé da praia. Este spa hotel está localizado junto ao Rio Ave, em Vila do Conde, e disponibiliza uma piscina interior, uma banheira de hidromassagem e uma sauna. O terraço do último piso oferece vistas panorâmicas da cidade e da praia.
+        \n\nTodos os quartos do Santana Hotel &amp; SPA, de 4 estrelas, incluem ar condicionado, uma televisão, um mini-bar e uma casa de banho privativa. Alguns quartos têm uma varanda e um terraço com vista do rio.
+        \n\nO Restaurante Santa Clara serve pratos de cozinha tradicional portuguesa, acompanhados por vistas do Rio Ave e do Mosteiro de Santa Clara.
+        \n\nO spa do Santanahotel apresenta uma ampla piscina interior aquecida. Os hóspedes também poderão desfrutar de uma variedade de massagens relaxantes no spa ou fazer exercício nos equipamentos cardiovasculares do ginásio.
+    </string>
+    <string name="sleep02">Villa C Boutique Hotel</string>
+    <string name="sleep02d">
 
-Na igreja encontram-se alguns importantes túmulos: o de Beatriz de Portugal, filha do beato Nuno Álvares Pereira, o dos Condes de Cantanhede e os dos fundadores.
+    </string>
+    <string name="sleep03">Santana Hotel &amp; SPA</string>
+    <string name="sleep03d">
 
-Um dos momentos mais notáveis da história do convento ocorreu sob a abadessa D. Isabel de Castro (1518-1543). A reedificação de 1777 em gosto neopalladino é do mestre pedreiro Henrique Ventura Lobo, que trabalhou na Cadeia do Tribunal da Relação do Porto.</string>
-    <string name="visit02">Igreja Matriz</string>
+    </string>
+    <string name="sleep04">Santana Hotel  SPA</string>
+    <string name="sleep04d">
+
+    </string>
+    <string name="sleep05">Santana Hotel  SPA</string>
+    <string name="sleep05d">
+
+    </string>
+    <string name="sleep06">Santana Hotel  SPA</string>
+    <string name="sleep06d">
+
+    </string>
 </resources>

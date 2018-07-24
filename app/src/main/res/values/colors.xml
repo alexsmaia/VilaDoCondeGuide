@@ -14,7 +14,7 @@
     <color name="list_visit">#a08866</color>
 
     <!-- Background color for the Sleep list -->
-    <color name="lidt_sleep">#e9e2d0</color>
+    <color name="list_sleep">#e9e2d0</color>
 
     <!-- Background color for the Eat list -->
     <color name="list_eat">#e1e6ac</color>

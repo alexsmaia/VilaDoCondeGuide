@@ -61,7 +61,7 @@ public class PlaceAdapter extends ArrayAdapter<Place> {
         imageView.setImageResource(currentPlace.getImageResourceId());
 
         // Set the theme color for the list item
-        View textContainer = listPlaceView.findViewById(R.id.name_text_view);
+        View textContainer = listPlaceView.findViewById(R.id.text_container);
         // Find the color
         int color = ContextCompat.getColor(getContext(), mColorResourceId);
         // Set the background color
