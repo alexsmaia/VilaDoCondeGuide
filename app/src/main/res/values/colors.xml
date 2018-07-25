@@ -14,11 +14,11 @@
     <color name="list_visit">#a08866</color>
 
     <!-- Background color for the Sleep list -->
-    <color name="list_sleep">#e9e2d0</color>
+    <color name="list_sleep">#90dc9e</color>
 
     <!-- Background color for the Eat list -->
-    <color name="list_eat">#e1e6ac</color>
+    <color name="list_eat">#238c8f</color>
 
     <!-- Background color for the Attend list -->
-    <color name="list_attend">#d9994f</color>
+    <color name="list_attend">#ef7125</color>
 </resources>

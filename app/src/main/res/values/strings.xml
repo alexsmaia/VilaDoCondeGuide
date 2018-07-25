@@ -1,16 +1,16 @@
 <resources>
     <!-- Title application -->
-    <string name="app_name">Vila do Conde Guide</string>
+    <string name="app_name">Guia de Vila do Conde</string>
 
-    <string name="place_details">Place Detais</string>
+    <string name="place_details">Detalhes Local</string>
 
-    <string name="more_info">More info</string>
+    <string name="more_info">Mais info</string>
 
     <!-- Places Titles -->
-    <string name="place_visit">Visit</string>
-    <string name="place_sleep">Sleep</string>
-    <string name="place_eat">Eat</string>
-    <string name="place_attend">Attend</string>
+    <string name="place_visit">Visitar</string>
+    <string name="place_sleep">Dormir</string>
+    <string name="place_eat">Comer</string>
+    <string name="place_attend">Assistir</string>
 
     <!-- Places Visit -->
     <string name="visit01">Mosteiro de Santa Clara</string>
@@ -65,22 +65,156 @@
     </string>
     <string name="sleep02">Villa C Boutique Hotel</string>
     <string name="sleep02d">
-
+        Este alojamento fica a 12 minutos a pé da praia. A Villa C Boutique Hotel está localizada na margem sul do Rio Ave, em Azurara. Esta propriedade de 4 estrelas dispõe de um spa luxuoso e de quartos com uma varanda.
+        \n\nNos quartos contemporâneos, a Villa C Boutique Hotel beneficia de televisões de ecrã plano e de um mini-bar. Alguns quartos também têm uma espaçosa área de estar.
+        \n\nEste boutique hotel dispõe de um restaurante, de um bar, de um spa, de um ginásio e de salas de conferências, o que tornam a propriedade o local perfeito para negócios e lazer. O hotel disponibiliza um mercado no átrio, uma mercearia e um salão exterior.
+        \n\nA Villa C Boutique Hotel providencia estacionamento privado gratuito. Muitas atracções podem ser encontradas nas proximidades, incluindo o Convento de Santa Clara. O Aeroporto Francisco Sá Carneiro fica a 15 minutos de carro.
     </string>
-    <string name="sleep03">Santana Hotel &amp; SPA</string>
+    <string name="sleep03">Hotel Brazão</string>
     <string name="sleep03d">
-
+        Este alojamento fica a 11 minutos a pé da praia. O Hotel Brazao está situado no coração de Vila do Conde, numa antiga vila de pescadores, e dispõe de elegantes quartos. Fica apenas a 900 metros da praia e beneficia de acesso Wi-Fi gratuito.
+        \n\nOs quartos e suites do Hotel Brazao estão equipados com ar condicionado, uma televisão por satélite, um mini-bar e uma secretária. Cada quarto inclui uma casa de banho privativa com um secador de cabelo.
+        \n\nO restaurante do hotel serve um buffet de pequeno-almoço. O hotel também tem um bar que serve bebidas refrescantes e um salão de chá.
+        \n\nEm torno do hotel é possível encontrar mini-golfe, campos de ténis e piscinas.
+        \n\nO Hotel Brazao está a 1,2 km de uma estação de metro e o Porto fica a 24 km. O Aeroporto Francisco Sá Carneiro situa-se a 13 km e o hotel dispõe de estacionamento privado gratuito no local. O Hotel Brazao está inserido na rota de peregrinação de Santiago de Compostela.
     </string>
-    <string name="sleep04">Santana Hotel  SPA</string>
+    <string name="sleep04">Autor Guesthouse</string>
     <string name="sleep04d">
-
+        Situado em Vila do Conde, o Autor Guesthouse dispõe de um jardim e de um salão partilhado. Está disponível acesso Wi-Fi gratuito e estacionamento no local.
+        \n\nOs quartos do hotel económico estão equipados com uma televisão de ecrã plano e uma cozinha. Cada quarto inclui ar condicionado e alguns quartos do Autor Guesthouse têm um terraço. As unidades incluem uma torradeira.
+        \n\nUm pequeno-almoço continental ou buffet pode ser apreciado na propriedade.
+        \n\nO Porto fica a 25 km do alojamento, enquanto Braga está a 34 km da propriedade. O Aeroporto Francisco Sá Carneiro encontra-se a 14 km.
+        \n\nEsta propriedade também tem uma das localizações melhor pontuadas em Vila do Conde! Os hóspedes estão mais satisfeitos com ela do que com outras propriedades da mesma área.
     </string>
-    <string name="sleep05">Santana Hotel  SPA</string>
+    <string name="sleep05">Casa do Rio charm suites</string>
     <string name="sleep05d">
-
+        As suites do Casa do Rio charm suites providenciam acomodações no centro de Vila do Conde. Os hóspedes podem desfrutar de uma bebida no bar existente no local.
+        \n\nAlguns quartos têm uma área de estar, ideal para relaxar. Os hóspedes podem desfrutar de uma chávena de chá no terraço ou na varanda. Para maior conforto, são fornecidos roupões de banho, chinelos e produtos de higiene pessoal gratuitos. A Casa do Rio charm suites dispõe de acesso Wi-Fi gratuito. É fornecida uma televisão de ecrã plano.
+        \n\nHá um multibanco na propriedade.
+        \n\nEstão disponíveis várias actividades na área, tais como wind-surf e ciclismo. A Casa do Rio charm suites fica a 25 km do Porto e a 34 km de Braga. O Aeroporto do Porto encontra-se a 14 km.
+        \n\nEsta propriedade também tem uma das localizações melhor pontuadas em Vila do Conde! Os hóspedes estão mais satisfeitos com ela do que com outras propriedades da mesma área.
     </string>
-    <string name="sleep06">Santana Hotel  SPA</string>
+    <string name="sleep06">Erva Doce Guest House</string>
     <string name="sleep06d">
-
+        O Erva Doce Guest House está localizado no centro de Vila do Conde, com vistas sobre o Rio Ave. A unidade possui uma moderna casa de chá e loja com vistas para o rio, especializada em chás biológicos e pastelaria caseira.
+        \n\nO alojamento apresenta acomodações em quartos duplos privados e em dormitórios, todos com uma televisão de ecrã plano. Os quartos duplos possuem uma casa de banho privativa, enquanto os dormitórios têm acesso a casas de banho partilhadas.
+        \n\nO pequeno-almoço está incluído na tarifa. Para mais opções de refeições, os hóspedes podem aventurar-se até ao centro da cidade, que tem vários restaurantes de peixe e marisco.
+        \n\nO centro da Póvoa do Varzim situa-se a 4 km e apresenta um casino, um longo passeio marítimo com restaurantes de marisco e uma popular área de praia. O centro do Porto fica a 30 km, e lá encontrará locais de interesse como a Torre dos Clérigos, a Estação Ferroviária de São Bento e a histórica Ponte Dom Luís I. O Aeroporto Francisco Sá Carneiro, no Porto, está a 20 km do alojamento Erva Doce.
     </string>
+    <string name="sleep07">Residencial Princesa do Ave</string>
+    <string name="sleep07d">
+        Este alojamento fica a 6 minutos a pé da praia. A Residencial Princesa do Ave encontra-se em Vila do Conde, a 5 minutos a pé da praia e do centro da cidade. A Estação de Metro da Vila do Conde, com ligação ao Porto, localiza-se a 1 km. O acesso Wi-Fi está disponível gratuitamente.
+        \n\nTodos os quartos confortáveis possuem mobiliário de qualidade em madeira, uma televisão, uma casa de banho privativa, um cofre, um telefone, roupa de cama e toalhas.
+        \n\nOs hóspedes poderão encontrar muitos restaurantes, que servem especialidades de peixes locais, a cerca de 500 metros, e à noite poderão visitar um dos bares à beira-mar e relaxar enquanto desfrutam de uma bebida.
+        \n\nA Residencial Princesa do Ave situa-se apenas a 2,8 km do acesso à Auto-estrada A28, o famoso Casino de Póvoa do Varzim a 3,9 km, o Museu José Régio a 550 metros, o Mosteiro de Santa Clara, com o seu aqueduto, a 600 metros e o Aeroporto Internacional do Porto a 24 km.
+    </string>
+    <string name="sleep08">Lapa Vintage</string>
+    <string name="sleep08d">
+        Este alojamento fica a 16 minutos a pé da praia. O Lapa Vintage está situado em Vila do Conde e dispõe de um jardim, de um terraço e de um salão partilhado. O alojamento disponibiliza um multibanco e uma cozinha partilhada para os hóspedes.
+        \n\nTodos os quartos da casa de hóspedes estão equipados com uma máquina de café. O Lapa Vintage dispõe de alguns quartos com uma varanda e todos os quartos estão equipados com uma chaleira. Os quartos têm uma área de estar.
+        \n\nO pequeno-almoço é servido todas as manhãs e inclui opções continentais e de buffet.
+        \n\nA área é popular para ciclismo e o aluguer de bicicletas está disponível no alojamento.
+        \n\nO Porto fica a 26 km do Lapa Vintage, enquanto Braga está a 34 km da propriedade. O Aeroporto Francisco Sá Carneiro encontra-se a 15 km.
+    </string>
+
+    <!-- Places Eat -->
+    <string name="eat01">Adega da Vila</string>
+    <string name="eat01d">
+        Preços médios:
+        \n11 € - 21 €
+        \n\nCozinha:
+        \nMediterrâneo, Europeia, Portuguesa, Adequado a vegetarianos, Opções vegan, Opções sem glúten
+        \n\nCaracterísticas do restaurante:
+        \nTem cadeiras de papa, Acessível a cadeiras de rodas, Reservas, Lugares sentados, Empregados de mesa, Estacionamento disponível, Estacionamento na rua, Televisão, Serve bebidas alcoólicas, Bebidas alcoólicas, Cerveja e vinho, Aceita Mastercard, Aceita Visa, Wi-Fi gratuito, Aceita cartão de crédito
+    </string>
+    <string name="eat02">VILLAZUR</string>
+    <string name="eat02d">
+        Preços médios:
+        \n5 € - 25 €
+        \n\nCozinha:
+        \nEuropeia, Saudável, Portuguesa, Bar de vinhos
+        \n\nCaracterísticas do restaurante:
+        \nComida para levar, Reservas, Mesas ao ar livre, Lugares sentados, Empregados de mesa, Estacionamento disponível, Estacionamento na rua, Parqueamento gratuito fora da estrada, Tem cadeiras de papa, Acessível a cadeiras de rodas, Serve bebidas alcoólicas, Bebidas alcoólicas, Cerveja e vinho, Aceita American Express, Aceita Mastercard, Aceita Visa, Wi-Fi gratuito, Aceita cartão de crédito
+    </string>
+    <string name="eat03">Romando Sushi Caffè</string>
+    <string name="eat03d">
+        Cozinha:
+        \nJaponesa, Sushi, Asiático
+        \n\nCaracterísticas do restaurante:
+        \nReservas, Mesas ao ar livre, Lugares sentados, Empregados de mesa, Acessível a cadeiras de rodas, Serve bebidas alcoólicas, Bebidas alcoólicas, Wi-Fi gratuito
+    </string>
+    <string name="eat04">O Cangalho</string>
+    <string name="eat04d">
+        Cozinha:
+        \nMediterrâneo, Europeia, Portuguesa, Adequado a vegetarianos
+        \n\nCaracterísticas do restaurante:
+        \nReservas, Mesas ao ar livre, Lugares sentados, Empregados de mesa, Televisão, Tem cadeiras de papa, Acessível a cadeiras de rodas, Serve bebidas alcoólicas, Bebidas alcoólicas, Wi-Fi gratuito
+    </string>
+    <string name="eat05">Republika</string>
+    <string name="eat05d">
+        Cozinha:
+        \nMediterrâneo, Europeia, Portuguesa, Opções vegan, Opções sem glúten, Adequado a vegetarianos
+        \n\nCaracterísticas do restaurante:
+        \n\nReservas, Mesas ao ar livre, Lugares sentados, Empregados de mesa, Televisão, Tem cadeiras de papa, Acessível a cadeiras de rodas, Serve bebidas alcoólicas, Bebidas alcoólicas, Wi-Fi gratuito    </string>
+    <string name="eat06">Doca</string>
+    <string name="eat06d">
+        Cozinha:
+        \nMediterrâneo, Europeia, Portuguesa
+        \n\nCaracterísticas do restaurante:
+        \nReservas, Lugares sentados, Empregados de mesa, Televisão, Tem cadeiras de papa, Serve bebidas alcoólicas, Wi-Fi gratuito
+    </string>
+    <string name="eat07">Praça Velha</string>
+    <string name="eat07d">
+        Preços médios:
+        \n7 € - 20 €
+        \n\nCozinha:
+        \nMediterrâneo, Portuguesa
+        \n\nCaracterísticas do restaurante:
+        \nComida para levar, Reservas, Mesas ao ar livre, Empregados de mesa, Estacionamento disponível, Estacionamento na rua, Tem cadeiras de papa, Serve bebidas alcoólicas, Bebidas alcoólicas, Cerveja e vinho, Aceita American Express, Aceita Mastercard, Aceita Visa, Wi-Fi gratuito, Aceita cartão de crédito
+    </string>
+    <string name="eat08">O Mestre</string>
+    <string name="eat08d">
+        Cozinha:
+        \nEuropeia, Portuguesa
+        \n\nCaracterísticas do restaurante:
+        \nAcessível a cadeiras de rodas
+    </string>
+
+    <!-- Places Attend -->
+    <string name="attend01">Curtas</string>
+    <string name="attend01d">
+        The first Festival was held in 1993.
+        \n\nOVER TWO DECADES of its existence, Curtas Vila do Code has become increasingly committed to cinema and its most innovative, diversified, artistic and independent filmmakers and artists.
+        \n\nTHE FESTIVAL brings together film directors, professionals, artists, journalists, students and an enthusiastic audience for a week where creativity, talent, spirit, wit and art take the lead.
+        \n\nCURTAS VILA DO CONDE has become more ambitious over the last few years and widened its scope by including music videos, multimedia installations, and other art forms that increasingly overlap short film.
+        \n\nEVERY YEAR, through thoughtful, cutting edge programming, Curtas Vila do Conde provides a wide selection of ground-breaking films and works on its competitions, retrospectives, theme sections, premières, special programmes, exhibitions and concerts.
+    </string>
+    <string name="attend02">São João</string>
+    <string name="attend02d">
+        Festas da cidade de Vila do Conde, que decorrem entre 1 e 24 de Junho! São sem dúvida semanas de muita animação, por toda a cidade.
+        \n\nAs festividades são particularmente marcadas pela Procissão em honra do Padroeiro, atingindo o seu ponto alto na Grande Noite de São João, com as marchas luminosas dos Ranchos do Monte e da Praça, seguidas das atuações de ambos os ranchos e culminando com uma grande sessão de fogo de artifício.
+    </string>
+    <string name="attend03">Feira Nacional de Artesanato</string>
+    <string name="attend03d">
+        Sendo o maior evento do género realizado em Portugal, mobilizando cerca de 200 artesãos e uma média de 400 mil visitantes por ano, as expetativas para a presente edição apontam para mais um certame que irá de encontro ao sucesso consolidado.
+        \n\nEm pleno coração da cidade, será possível apreciar o melhor e mais tradicional artesanato português, representativo das diferentes regiões do país. E se ao artesanato e à música, juntarmos os sabores da gastronomia portuguesa, é certo que estão reunidos os motivos necessários para uma visita obrigatória a Vila do Conde.
+    </string>
+    <string name="attend04">Feira de Gastronomia</string>
+    <string name="attend04d">
+        Em agosto, “Portugal senta-se à mesa” nos Jardins da Avenida Júlio Graça.
+        \n\nEste evento propõe um roteiro gastronómico pelos vários sabores das diferentes regiões do país, escolhendo um dos restaurantes típicos ou temático, saltando pelas várias petisqueiras ou visitando os diversos stands que apresentam desde o pão tradicional aos bolos e biscoitos, passando pelos enchidos, queijos, compotas, azeites, vinhos, digestivos e muito mais.
+    </string>
+    <string name="attend05">Portugal Rural</string>
+    <string name="attend05d">
+        “Portugal Rural, Feira de Atividades Agrícolas de Vila do Conde”, traz até à cidade as tradições da vida rural.
+        \n\nPara além da exposição de animais, bastante apreciada pelos mais novos, o certame conta com a presença de casas agrícolas, empresas agrícolas, instituições e organismos ligados ao setor rural concelhio e nacional.
+        \n\nNo vasto programa do certame constam um conjunto de atividades ligadas à caça, galgos e BTT, destacando-se ainda o concurso do “Melhor Pão Doce de Vila do Conde”, o concurso “A maior Abóbora de Vila do Conde”, degustação de batata, a prova equestre de obstáculos, o passeio e desfile de atrelagens, cavaleiros e amazonas, não faltando a animação musical e o folclore.
+    </string>
+    <string name="attend06">Tapetes de Flores</string>
+    <string name="attend06d">
+        De 4 em 4 anos, Vila do Conde espera por si no dia de Corpo de Deus para partilhar consigo uma das tradições mais marcantes do concelho e das suas gentes.
+        \n\nOs Tapetes de Flores são um acontecimento invulgar, fruto de um grande esforço da comunidade, que reforça a identidade de Vila do Conde no país e no mundo. Neste dia, Vila do Conde é envolvida por um colorido inesquecível e por um aroma fresco que despertam sensações únicas!
+    </string>
+
+
 </resources>

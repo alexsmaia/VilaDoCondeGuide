@@ -31,8 +31,12 @@ public class VisitFragment extends Fragment {
         // Create List of Places
         final ArrayList<Place> places = new ArrayList<Place>();
         places.add(new Place(R.string.visit01, R.drawable.most_st_clara, R.string.visit01d));
-        places.add(new Place(R.string.visit01, R.drawable.most_st_clara, R.string.visit01d));
-
+        places.add(new Place(R.string.visit02, R.drawable.aqueduto, R.string.visit02d));
+        places.add(new Place(R.string.visit03, R.drawable.igreja_st_clara, R.string.visit03d));
+        places.add(new Place(R.string.visit04, R.drawable.matriz, R.string.visit04d));
+        places.add(new Place(R.string.visit05, R.drawable.senhora_guia, R.string.visit05d));
+        places.add(new Place(R.string.visit06, R.drawable.capela_socorro, R.string.visit06d));
+        places.add(new Place(R.string.visit07, R.drawable.lapa, R.string.visit07d));
 
         // Create an PlaceAdapter
         PlaceAdapter adapter = new PlaceAdapter(getActivity(), places, R.color.list_visit);
